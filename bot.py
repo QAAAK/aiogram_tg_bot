@@ -4,7 +4,7 @@ import logging
 from aiogram import Bot, Dispatcher, executor, types
 
 
-TOKEN = '6110110881:AAFAhMsUWWl9NnNZFO6W_2H3H6GU8RSf2zc'
+TOKEN = '#################################################################'
 MSG = 'Learn programming today?'
 
 bot = Bot(token=TOKEN)
